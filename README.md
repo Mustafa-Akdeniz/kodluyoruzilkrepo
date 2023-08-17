@@ -25,3 +25,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![Kodluyoruz İlk repo](12.png)
+
+
